@@ -2,16 +2,16 @@
 
 ***Will always be a work in progress. Feel free to contribute what you know.***
 
-**Part I** - Components Checklist
+0. Components Checklist
 
-**Part II** - Choose The Parts
+0. Choose The Parts
 
-**Part III** - Assemble The Computer
+0. Assemble The Computer
 
-**Part IV** - Install OS, Drivers, etc.
+0. Install OS, Drivers, etc.
 
-**Part V** - Troubleshooting And Upgrading
+0. Troubleshooting And Upgrading
 
-**Part VI** - The Setup
+0. The Setup
 
-**Part VI** - Resources & Credits
+0. Resources & Credits
